@@ -1,0 +1,47 @@
+.follow{
+    font-size: 22px;
+    padding-top: 0;
+    margin-top: 10px;
+    color: white;
+    word-spacing: 0.5rem;
+    font-weight: bold;
+}
+.email{
+    margin-top: 10px;
+    color: white;
+}
+.email:hover{
+    color: red;
+}
+.marque{
+    margin-top: 10px;
+    word-spacing: 0.5rem;
+}
+.bi-facebook:hover{
+    color: red;
+}
+.bi-google:hover{
+    color: red;
+}
+.bi-twitter:hover{
+    color: red;
+}
+.bi-youtube:hover{
+    color: red;
+}
+
+.marquee{
+    background-color: yellow;
+    color: black;
+    font-size: 18px; 
+    font-weight: bold;
+    padding-top: 10px; 
+}
+.marquee a{
+    text-decoration: none;
+    color: black;
+}
+.marquee a:hover{
+    text-decoration: none;
+    color: brown;
+}
