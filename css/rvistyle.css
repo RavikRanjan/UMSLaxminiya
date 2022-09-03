@@ -470,6 +470,15 @@
     .Principle{
         padding-bottom: 50px;
     }
+     .Principle img, .vprinciple img{
+        width: 900px;
+        margin-left: 60px;
+        margin: 0;
+
+    }
+    .Principle h4, .vprinciple h4{
+        margin-left: 350px;
+    }
     .vprinciple{
         padding-bottom: 50px;
     }
@@ -481,6 +490,10 @@
     .vprinciple{
         padding-bottom: 50px;
     }
+    .Principle h4, .vprinciple h4{
+        margin-left: 70px;
+    }
+    
     .vprinciple img{
         align-items: center;
         float: calc(100px);
